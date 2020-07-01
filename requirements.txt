@@ -1,0 +1,7 @@
+beautifulsoup4
+PyAudio
+pyttsx3
+requests
+SpeechRecognition
+wikipedia
+
